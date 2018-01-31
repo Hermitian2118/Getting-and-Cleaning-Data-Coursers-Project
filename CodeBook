@@ -1,0 +1,4 @@
+This file is a code book that summarizes the result of the project.
+
+Using download.file() we can download the zip file in our working directory.
+
